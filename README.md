@@ -11,6 +11,8 @@ name a few. [This list](site/content/projects_using_cobra.md) contains a more ex
 [![Go Report Card](https://goreportcard.com/badge/github.com/spf13/cobra)](https://goreportcard.com/report/github.com/spf13/cobra)
 [![Slack](https://img.shields.io/badge/Slack-cobra-brightgreen)](https://gophers.slack.com/archives/CD3LP1199)
 
+> i wouldn't even know what to replace cobra with if we wanted to - Gene Heinrich
+
 # Overview
 
 Cobra is a library providing a simple interface to create powerful modern CLI
